@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Shopping card</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header>
+      <p class="logo">LOGO</p>
+      <div class="cart-counter">
+        <img src="cart.png" alt="cart_ico" />
+        <p class="count">0</p>
+      </div>
+    </header>
+    <div class="main">
+      <div class="products"></div>
+      <div class="basket">
+        <div class="head">
+          <p>Mój koszyk</p>
+          <button class="remove-all">Usuń wszystko</button>
+        </div>
+        <div class="basket-items"></div>
+        <div class="foot">
+          <h2>Suma:</h2>
+          <h2 class="sum"></h2>
+        </div>
+      </div>
+    </div>
+    <script src="app.js"></script>
+  </body>
+</html>
