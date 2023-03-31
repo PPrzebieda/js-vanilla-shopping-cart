@@ -1,12 +1,12 @@
-# js-vanilla-shopping-cart
+# JavaScript Vanilla Shopping Cart
 
 Vanilla JavaScript shopping cart
 
-#Demo:
+# Demo:
 
 https://pprzebieda.github.io/js-vanilla-shopping-cart/
 
-#Features:
+# Features:
 
 + Adding products from list to shopping cart
 + Sum prices in shopping cart
