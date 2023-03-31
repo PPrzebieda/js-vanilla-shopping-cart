@@ -2,7 +2,7 @@
 
 Vanilla JavaScript shopping cart
 
-Features:
+#Features:
 
 + Adding products from list to shopping cart
 + Sum prices in shopping cart
