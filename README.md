@@ -2,6 +2,10 @@
 
 Vanilla JavaScript shopping cart
 
+#Demo:
+
+https://pprzebieda.github.io/js-vanilla-shopping-cart/
+
 #Features:
 
 + Adding products from list to shopping cart
